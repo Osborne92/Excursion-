@@ -1,0 +1,29 @@
+body {
+  text-align: Center;
+  background-color: Black
+}
+
+h3 {
+  color: Aquamarine;
+  font-size: 16px
+}
+
+h1 {
+  color: white;
+  font-family: Verdana;
+  font-weight: 300;
+  font-size: 42px
+}
+
+p {
+  font-family: Verdana;
+  font-size: 21px;
+  color: Gray
+}
+
+#Title {
+  font-family: Verdana;
+  font-weight: normal;
+  font-size: 50px;
+  color: White
+}
